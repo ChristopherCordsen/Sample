@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\c-cor\\source\\repos\\VariablesAndDataTypes(new)\\VariablesAndDataTypes(new)\\VariablesAndDataTypes(new).csproj": {}
+    "C:\\Users\\c-cor\\Desktop\\Sample\\Sample\\VariablesAndDataTypes(new)\\VariablesAndDataTypes(new)\\VariablesAndDataTypes(new).csproj": {}
   },
   "projects": {
-    "C:\\Users\\c-cor\\source\\repos\\VariablesAndDataTypes(new)\\VariablesAndDataTypes(new)\\VariablesAndDataTypes(new).csproj": {
+    "C:\\Users\\c-cor\\Desktop\\Sample\\Sample\\VariablesAndDataTypes(new)\\VariablesAndDataTypes(new)\\VariablesAndDataTypes(new).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\c-cor\\source\\repos\\VariablesAndDataTypes(new)\\VariablesAndDataTypes(new)\\VariablesAndDataTypes(new).csproj",
+        "projectUniqueName": "C:\\Users\\c-cor\\Desktop\\Sample\\Sample\\VariablesAndDataTypes(new)\\VariablesAndDataTypes(new)\\VariablesAndDataTypes(new).csproj",
         "projectName": "VariablesAndDataTypes(new)",
-        "projectPath": "C:\\Users\\c-cor\\source\\repos\\VariablesAndDataTypes(new)\\VariablesAndDataTypes(new)\\VariablesAndDataTypes(new).csproj",
+        "projectPath": "C:\\Users\\c-cor\\Desktop\\Sample\\Sample\\VariablesAndDataTypes(new)\\VariablesAndDataTypes(new)\\VariablesAndDataTypes(new).csproj",
         "packagesPath": "C:\\Users\\c-cor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\c-cor\\source\\repos\\VariablesAndDataTypes(new)\\VariablesAndDataTypes(new)\\obj\\",
+        "outputPath": "C:\\Users\\c-cor\\Desktop\\Sample\\Sample\\VariablesAndDataTypes(new)\\VariablesAndDataTypes(new)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\c-cor\\AppData\\Roaming\\NuGet\\NuGet.Config",

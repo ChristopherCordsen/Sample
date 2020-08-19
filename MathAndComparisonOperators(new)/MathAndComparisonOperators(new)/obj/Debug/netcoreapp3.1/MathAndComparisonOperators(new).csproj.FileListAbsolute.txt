@@ -1,0 +1,13 @@
+C:\Users\c-cor\Desktop\Sample\Sample\MathAndComparisonOperators(new)\MathAndComparisonOperators(new)\obj\Debug\netcoreapp3.1\MathAndComparisonOperators(new).csprojAssemblyReference.cache
+C:\Users\c-cor\Desktop\Sample\Sample\MathAndComparisonOperators(new)\MathAndComparisonOperators(new)\obj\Debug\netcoreapp3.1\MathAndComparisonOperators(new).AssemblyInfoInputs.cache
+C:\Users\c-cor\Desktop\Sample\Sample\MathAndComparisonOperators(new)\MathAndComparisonOperators(new)\obj\Debug\netcoreapp3.1\MathAndComparisonOperators(new).AssemblyInfo.cs
+C:\Users\c-cor\Desktop\Sample\Sample\MathAndComparisonOperators(new)\MathAndComparisonOperators(new)\obj\Debug\netcoreapp3.1\MathAndComparisonOperators(new).csproj.CoreCompileInputs.cache
+C:\Users\c-cor\Desktop\Sample\Sample\MathAndComparisonOperators(new)\MathAndComparisonOperators(new)\bin\Debug\netcoreapp3.1\MathAndComparisonOperators(new).exe
+C:\Users\c-cor\Desktop\Sample\Sample\MathAndComparisonOperators(new)\MathAndComparisonOperators(new)\bin\Debug\netcoreapp3.1\MathAndComparisonOperators(new).deps.json
+C:\Users\c-cor\Desktop\Sample\Sample\MathAndComparisonOperators(new)\MathAndComparisonOperators(new)\bin\Debug\netcoreapp3.1\MathAndComparisonOperators(new).runtimeconfig.json
+C:\Users\c-cor\Desktop\Sample\Sample\MathAndComparisonOperators(new)\MathAndComparisonOperators(new)\bin\Debug\netcoreapp3.1\MathAndComparisonOperators(new).runtimeconfig.dev.json
+C:\Users\c-cor\Desktop\Sample\Sample\MathAndComparisonOperators(new)\MathAndComparisonOperators(new)\bin\Debug\netcoreapp3.1\MathAndComparisonOperators(new).dll
+C:\Users\c-cor\Desktop\Sample\Sample\MathAndComparisonOperators(new)\MathAndComparisonOperators(new)\bin\Debug\netcoreapp3.1\MathAndComparisonOperators(new).pdb
+C:\Users\c-cor\Desktop\Sample\Sample\MathAndComparisonOperators(new)\MathAndComparisonOperators(new)\obj\Debug\netcoreapp3.1\MathAndComparisonOperators(new).dll
+C:\Users\c-cor\Desktop\Sample\Sample\MathAndComparisonOperators(new)\MathAndComparisonOperators(new)\obj\Debug\netcoreapp3.1\MathAndComparisonOperators(new).pdb
+C:\Users\c-cor\Desktop\Sample\Sample\MathAndComparisonOperators(new)\MathAndComparisonOperators(new)\obj\Debug\netcoreapp3.1\MathAndComparisonOperators(new).genruntimeconfig.cache
