@@ -1,0 +1,13 @@
+C:\Users\c-cor\source\repos\Anonymous Income Comparison(final)\Anonymous Income Comparison(final)\bin\Debug\Anonymous Income Comparison(final).exe.config
+C:\Users\c-cor\source\repos\Anonymous Income Comparison(final)\Anonymous Income Comparison(final)\bin\Debug\Anonymous Income Comparison(final).exe
+C:\Users\c-cor\source\repos\Anonymous Income Comparison(final)\Anonymous Income Comparison(final)\bin\Debug\Anonymous Income Comparison(final).pdb
+C:\Users\c-cor\source\repos\Anonymous Income Comparison(final)\Anonymous Income Comparison(final)\obj\Debug\Anonymous Income Comparison(final).exe
+C:\Users\c-cor\source\repos\Anonymous Income Comparison(final)\Anonymous Income Comparison(final)\obj\Debug\Anonymous Income Comparison(final).pdb
+C:\Users\c-cor\source\repos\Anonymous Income Comparison(final)\Anonymous Income Comparison(final)\obj\Debug\Anonymous Income Comparison(final).csprojAssemblyReference.cache
+C:\Users\c-cor\Desktop\Basic C-Sharp Projects\Basic-C-Sharp-Projects\Anonymous Income Comparison(final)\Anonymous Income Comparison(final)\bin\Debug\Anonymous Income Comparison(final).exe.config
+C:\Users\c-cor\Desktop\Basic C-Sharp Projects\Basic-C-Sharp-Projects\Anonymous Income Comparison(final)\Anonymous Income Comparison(final)\bin\Debug\Anonymous Income Comparison(final).exe
+C:\Users\c-cor\Desktop\Basic C-Sharp Projects\Basic-C-Sharp-Projects\Anonymous Income Comparison(final)\Anonymous Income Comparison(final)\bin\Debug\Anonymous Income Comparison(final).pdb
+C:\Users\c-cor\Desktop\Basic C-Sharp Projects\Basic-C-Sharp-Projects\Anonymous Income Comparison(final)\Anonymous Income Comparison(final)\obj\Debug\Anonymous Income Comparison(final).csprojAssemblyReference.cache
+C:\Users\c-cor\Desktop\Basic C-Sharp Projects\Basic-C-Sharp-Projects\Anonymous Income Comparison(final)\Anonymous Income Comparison(final)\obj\Debug\Anonymous Income Comparison(final).csproj.CoreCompileInputs.cache
+C:\Users\c-cor\Desktop\Basic C-Sharp Projects\Basic-C-Sharp-Projects\Anonymous Income Comparison(final)\Anonymous Income Comparison(final)\obj\Debug\Anonymous Income Comparison(final).exe
+C:\Users\c-cor\Desktop\Basic C-Sharp Projects\Basic-C-Sharp-Projects\Anonymous Income Comparison(final)\Anonymous Income Comparison(final)\obj\Debug\Anonymous Income Comparison(final).pdb
