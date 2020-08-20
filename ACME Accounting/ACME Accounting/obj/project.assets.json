@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\c-cor\\source\\repos\\ACME Accounting\\ACME Accounting\\ACME Accounting.csproj",
+      "projectUniqueName": "C:\\Users\\c-cor\\Desktop\\Sample\\Sample\\ACME Accounting\\ACME Accounting\\ACME Accounting.csproj",
       "projectName": "ACME Accounting",
-      "projectPath": "C:\\Users\\c-cor\\source\\repos\\ACME Accounting\\ACME Accounting\\ACME Accounting.csproj",
+      "projectPath": "C:\\Users\\c-cor\\Desktop\\Sample\\Sample\\ACME Accounting\\ACME Accounting\\ACME Accounting.csproj",
       "packagesPath": "C:\\Users\\c-cor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\c-cor\\source\\repos\\ACME Accounting\\ACME Accounting\\obj\\",
+      "outputPath": "C:\\Users\\c-cor\\Desktop\\Sample\\Sample\\ACME Accounting\\ACME Accounting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\c-cor\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\c-cor\\source\\repos\\BooleanLogic\\BooleanLogic\\BooleanLogic.csproj": {}
+    "C:\\Users\\c-cor\\Desktop\\Sample\\Sample\\BooleanLogic\\BooleanLogic\\BooleanLogic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\c-cor\\source\\repos\\BooleanLogic\\BooleanLogic\\BooleanLogic.csproj": {
+    "C:\\Users\\c-cor\\Desktop\\Sample\\Sample\\BooleanLogic\\BooleanLogic\\BooleanLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\c-cor\\source\\repos\\BooleanLogic\\BooleanLogic\\BooleanLogic.csproj",
+        "projectUniqueName": "C:\\Users\\c-cor\\Desktop\\Sample\\Sample\\BooleanLogic\\BooleanLogic\\BooleanLogic.csproj",
         "projectName": "BooleanLogic",
-        "projectPath": "C:\\Users\\c-cor\\source\\repos\\BooleanLogic\\BooleanLogic\\BooleanLogic.csproj",
+        "projectPath": "C:\\Users\\c-cor\\Desktop\\Sample\\Sample\\BooleanLogic\\BooleanLogic\\BooleanLogic.csproj",
         "packagesPath": "C:\\Users\\c-cor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\c-cor\\source\\repos\\BooleanLogic\\BooleanLogic\\obj\\",
+        "outputPath": "C:\\Users\\c-cor\\Desktop\\Sample\\Sample\\BooleanLogic\\BooleanLogic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\c-cor\\AppData\\Roaming\\NuGet\\NuGet.Config",
