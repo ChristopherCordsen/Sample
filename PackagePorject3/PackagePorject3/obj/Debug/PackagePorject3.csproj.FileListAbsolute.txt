@@ -1,0 +1,13 @@
+C:\Users\c-cor\source\repos\PackagePorject3\PackagePorject3\bin\Debug\PackagePorject3.exe.config
+C:\Users\c-cor\source\repos\PackagePorject3\PackagePorject3\bin\Debug\PackagePorject3.exe
+C:\Users\c-cor\source\repos\PackagePorject3\PackagePorject3\bin\Debug\PackagePorject3.pdb
+C:\Users\c-cor\source\repos\PackagePorject3\PackagePorject3\obj\Debug\PackagePorject3.csprojAssemblyReference.cache
+C:\Users\c-cor\source\repos\PackagePorject3\PackagePorject3\obj\Debug\PackagePorject3.exe
+C:\Users\c-cor\source\repos\PackagePorject3\PackagePorject3\obj\Debug\PackagePorject3.pdb
+C:\Users\c-cor\Desktop\Basic C-Sharp Projects\Basic-C-Sharp-Projects\PackagePorject3\PackagePorject3\bin\Debug\PackagePorject3.exe.config
+C:\Users\c-cor\Desktop\Basic C-Sharp Projects\Basic-C-Sharp-Projects\PackagePorject3\PackagePorject3\bin\Debug\PackagePorject3.exe
+C:\Users\c-cor\Desktop\Basic C-Sharp Projects\Basic-C-Sharp-Projects\PackagePorject3\PackagePorject3\bin\Debug\PackagePorject3.pdb
+C:\Users\c-cor\Desktop\Basic C-Sharp Projects\Basic-C-Sharp-Projects\PackagePorject3\PackagePorject3\obj\Debug\PackagePorject3.csprojAssemblyReference.cache
+C:\Users\c-cor\Desktop\Basic C-Sharp Projects\Basic-C-Sharp-Projects\PackagePorject3\PackagePorject3\obj\Debug\PackagePorject3.csproj.CoreCompileInputs.cache
+C:\Users\c-cor\Desktop\Basic C-Sharp Projects\Basic-C-Sharp-Projects\PackagePorject3\PackagePorject3\obj\Debug\PackagePorject3.exe
+C:\Users\c-cor\Desktop\Basic C-Sharp Projects\Basic-C-Sharp-Projects\PackagePorject3\PackagePorject3\obj\Debug\PackagePorject3.pdb
